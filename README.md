@@ -15,7 +15,7 @@ password: "vapor"
 
 **Disclaimer** 2:
 
-Another thing to keep in mind is that you should setup you postgres database previously. 😎✌️:
+Another thing to keep in mind is that you should setup you postgres database previously. 😉✌️
 
 ## Try it out
 
